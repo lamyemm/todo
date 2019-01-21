@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "Take a node.js course",
+      "complete": true
+    },
+    {
+      "title": "Take a seconde node.js course",
+      "complete": true
+    },
+    {
+      "title": "Practice and have fun but like... not too much",
+      "complete": false
+    },
+    {
+      "title": "Speak to Andy",
+      "complete": false
+    }
+  ]
+}
